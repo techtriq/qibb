@@ -1,6 +1,6 @@
 <h1 align="center">qibb</h1>
 
-<h3 align="center"> The integration platform for professional media workflows.</h3>
+<h3 align="center"> The fastest way to connect, automate and scale your media workflows.</h3>
 
 <div align="center">
   <p>Plan, build and run modular solutions for professional media with qibb.</p>
