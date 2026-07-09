@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  ![qibb_logo](https://user-images.githubusercontent.com/13440771/169877745-014a10ec-8954-4bd9-a312-be1836841302.png)
+  <img width="754" height="454" alt="qibb-docs-grafic-hd" src="https://github.com/user-attachments/assets/9b46a88b-532f-4a98-b66b-606dadc49499" />
 
   <p>
   <br />
@@ -18,9 +18,7 @@
   <br/>
     <a href="https://qibb.com/">Check our website</a>
     ·
-    <a href="https://github.com/techtriq/qibb/discussions">Join our discussions</a>
-    ·
-    <a href="https://www.linkedin.com/showcase/qibb/">Follow us on linked.in</a>
+    <a href="https://www.linkedin.com/company/qibb-techtriq/">Follow us on linked.in</a>
   </p>
   
   <h6>This is a public representation for the private product <a href="https://qibb.com">qibb</a> made by Techtriq.</h6>
