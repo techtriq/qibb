@@ -32,8 +32,6 @@ Connect services with low-code and onboard users with tailored dashboards.
 
 ## List of integrations
 
-Here’s the updated table, sorted by category. qibb’s catalog page provides the integration names, categories, detail-page links, and logo image references used below. ([qibb.com][1])
-
 | Category                                  | Integration                                                                                                                                                                                                                             | Details                                                                           |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | Content Discovery                         | <img src="https://cdn.prod.website-files.com/683da2fed2eed5231f7e016e/6848101835689969d89e6b8e_fabric-origin-node-icon.svg" width="24" alt="Fabric Origin logo"> Fabric Origin                                                          | [Detail Page](https://www.qibb.com/integrations/fabric-origin)                    |
