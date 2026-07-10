@@ -174,7 +174,6 @@ Connect services with low-code and onboard users with tailored dashboards.
 | Video Editing                             | <img src="https://cdn.prod.website-files.com/683da2fed2eed5231f7e016e/6848101fd1be9c765df6f8d9_cuttingroom-node-icon.svg" width="24" alt="CuttingRoom logo"> CuttingRoom                                                                | [Detail Page](https://www.qibb.com/integrations/cuttingroom)                      |
 | Video Editing                             | <img src="https://cdn.prod.website-files.com/683da2fed2eed5231f7e016e/68481004dc597d06666cb32a_shotstack-node-icon.svg" width="24" alt="Shotstack logo"> Shotstack                                                                      | [Detail Page](https://www.qibb.com/integrations/shotstack)                        |
 
-[1]: https://www.qibb.com/integrations "Media workflow integration catalog | qibb"
 
 
 
